@@ -27,7 +27,7 @@ This repository currently includes **1 project** (with more coming soon!) coveri
 
 ## 🚀 Getting Started
 - cd data-preprocessing-and-cleaning
-- git clone https://github.com/trevor-mahubhana/data-cleaning-and-preprocessing-using-python-libraries.git
+- git clone https://github.com/trevor-mahubhana/data-cleaning-and-cleaning-using-python-libraries.git
 
 
 ## 📂 Project Structure
